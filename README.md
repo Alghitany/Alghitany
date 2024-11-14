@@ -20,8 +20,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,androidstudio,cs,firebase,flutter,github,postman,unity,visualstudio,xd,figma&theme=light" />
 </div>
 
 <br>
@@ -62,6 +61,9 @@
      <a href="https://t.me/AhmedAlghitany">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+    <a href="https://drive.google.com/file/d/1r_WJsDDopyIhBlewc3-59ui5DSMs-pnq/view?usp=drive_link" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-012345?style=for-the-badge&logoColor=white" target="_blank" />
+    </a>
 </div>
 
 
