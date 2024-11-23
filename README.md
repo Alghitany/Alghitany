@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+- 🌱 I’m currently learning **Advanced Flutter** and **Beginner Game Development**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Alghitany?tab=repositories)**.
 
